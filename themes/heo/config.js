@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '结发受长生',
+  HEO_HERO_TITLE_2: '仙人抚我顶',
   HEO_HERO_TITLE_3: 'https://cloud666.top',
   HEO_HERO_TITLE_4: '三木blog',
   HEO_HERO_TITLE_5: '弘扬割菜精神',
@@ -118,7 +118,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://cloud666.top',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
