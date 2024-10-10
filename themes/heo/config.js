@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '钱没了可以再挣，良心没了可以挣的更多', url: 'https://cloud666.top' },
-    { title: '结发受长生，仙人抚我顶', url: 'https://cloud666.top' }
+    { title: '吃得苦中苦，就特别能吃苦', url: 'https://cloud666.top' }
   ],
 
   // 英雄区左右侧组件颠倒位置
