@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '结发受长生',
-  HEO_HERO_TITLE_2: '仙人抚我顶'，
+  HEO_HERO_TITLE_2: '仙人抚我顶',
   HEO_HERO_TITLE_3: 'shop.cloud666.top',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '尘荒三木博客',
@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '资源分享', url: '/tag/资源分享' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选'， url: '/tag/必看精选' }，
+  HEO_HERO_CATEGORY_2: { title: '资源分享'， url: '/tag/资源分享' },
+  HEO_HERO_CATEGORY_3: { title: '实用教程'， url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
