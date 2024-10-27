@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '吃得苦中苦，就特别能吃苦', url: 'https://shop.cloud666.top },
+    { title: '吃得苦中苦，就特别能吃苦', url: 'https://shop.cloud666.top' },
     { title: '学坤拳就要练舞功', url: 'https://shop.cloud666.top' }
   ],
 
